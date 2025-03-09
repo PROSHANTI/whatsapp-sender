@@ -65,3 +65,7 @@ whatsapp-sendler/
 * Приложение работает только с браузером Chrome или Chromium.
 * Для работы необходим доступ к интернету.
 * WhatsApp должен быть открыт в браузере (вкладка закрывается автоматически после отправки).
+
+## Скриншот
+
+![MacOS](https://github.com/PROSHANTI/whatsapp-sendler/blob/082f5685ac8c14f776cc1d36055e62d21cdc66d2/Screenshot_MacOS.png)
